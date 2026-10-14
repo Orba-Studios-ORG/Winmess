@@ -1,6 +1,6 @@
 # Winmess
 Winmess is a native Open-Source Messenger Work in progress
-# changelog
+# Changelog
 WinMess still in progress
-# contributors:
+# Contributors:
 BlueRaz
